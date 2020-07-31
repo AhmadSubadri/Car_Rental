@@ -8,7 +8,7 @@
 	<div class="row">
 		<!-- Earnings (Monthly) Card Example -->
 		<h1 class="display-4"></h1>
-		<p>Ini adalah dashboard admin dari Asikrentcars. silahkan manfaatkan dengan baik tools yang ada</p>
+		<p>Ini adalah dashboard admin dari RENTALMOBIL. silahkan manfaatkan dengan baik tools yang ada</p>
 	</div>
 </div>
 <!-- /.container-fluid -->

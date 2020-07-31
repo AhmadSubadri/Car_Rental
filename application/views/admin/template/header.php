@@ -10,7 +10,7 @@
   <meta name="description" content="">
   <meta name="author" content="">
 
-  <title>Asikrentcars</title>
+  <title>RENTALMOBIL</title>
 
   <!-- Custom fonts for this template-->
   <link href="<?php echo base_url();?>assetsss/vendor/fontawesome-free/css/all.min.css" rel="stylesheet"
@@ -38,7 +38,7 @@
         <div class="sidebar-brand-icon rotate-n-15">
           <i class="fas fa-laugh-wink"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">Asikrentcars </div>
+        <div class="sidebar-brand-text mx-3">RENTALMOBIL </div>
       </a>
 
       <!-- Divider -->

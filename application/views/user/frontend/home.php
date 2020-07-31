@@ -37,7 +37,7 @@
                     </div>
                     <div class="text p-4 text-center">
                         <h2 class="mb-0"><a href="#"><?php echo $car['Merk'];?></a></h2>
-                        <span>Asikrentcars</span>
+                        <span>RENTALMOBIL</span>
                         <p class="d-flex mb-0 d-block"><a
                                 href="https://api.whatsapp.com/send?phone=+6281381945880&text=Hallo mas mau tanya-tanya untuk pesan rental mobil <?php echo $car['Merk']; ?>"
                                 class="btn btn-warning btn-outline-black mr-1">Book now</a>
@@ -91,7 +91,7 @@
                     <h2 class="mb-0">
                         <button class="btn btn-link" type="button" data-toggle="collapse" data-target="#collapseOne"
                             aria-expanded="true" aria-controls="collapseOne">
-                            MENGAPA ASIKRENTCARS MENJADI PILIHAN RENTAL MOBIL DI JAKARTA ?
+                            MENGAPA RENTALMOBIL MENJADI PILIHAN RENTAL MOBIL DI JAKARTA ?
                         </button>
                     </h2>
                 </div>
@@ -130,7 +130,7 @@
                     <h2 class="mb-0">
                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                             data-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
-                            PAKET APA YANG DITAWARKAN OLEH ASIKRENTCARS?
+                            PAKET APA YANG DITAWARKAN OLEH RENTALMOBIL?
                         </button>
                     </h2>
                 </div>
@@ -147,7 +147,7 @@
                     <h2 class="mb-0">
                         <button class="btn btn-link collapsed" type="button" data-toggle="collapse"
                             data-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
-                            BAGAIMANA CARA PEMESANAN MOBIL DI ASIKRENTCARS ?
+                            BAGAIMANA CARA PEMESANAN MOBIL DI RENTALMOBIL ?
                         </button>
                     </h2>
                 </div>
